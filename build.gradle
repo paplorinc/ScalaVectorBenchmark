@@ -1,0 +1,17 @@
+plugins {
+    id "me.champeau.gradle.jmh" version "0.3.1"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.scala-lang:scala-library:2.11.8'
+//  compile 'org.scala-lang:scala-library:2.12.0'
+
+    jmh 'org.openjdk.jmh:jmh-generator-annprocess:1.15'
+    compile 'org.openjdk.jmh:jmh-generator-annprocess:1.15'
+}
+
+sourceCompatibility = 1.8

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VectorBenchmark.iml" filepath="$PROJECT_DIR$/.idea/modules/VectorBenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VectorBenchmark_jmh.iml" filepath="$PROJECT_DIR$/.idea/modules/VectorBenchmark_jmh.iml" group="VectorBenchmark" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VectorBenchmark_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VectorBenchmark_main.iml" group="VectorBenchmark" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VectorBenchmark_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VectorBenchmark_test.iml" group="VectorBenchmark" />
+    </modules>
+  </component>
+</project>
